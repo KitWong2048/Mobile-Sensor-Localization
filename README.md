@@ -5,7 +5,7 @@ Hu, Lingxuan, and David Evans. "Localization for mobile sensor networks." Procee
 
 The algorithm tracks the locations of moving sensors using particle filter in an adhoc network  continuously.
 
-##How to
+## How to
 Import the project into eclipse.
 Run TestMain for experiments without GUI/
 run GUIMain for experiments with GUI 
