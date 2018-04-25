@@ -1,0 +1,23 @@
+# The terrian area
+areaWidth=200 
+areaHeight=200
+
+# The node inforamtion
+# number of target to track 
+numTarget=1
+# number of sensor
+numSensor = 16
+
+# The mobility model
+# maximum velocity 
+maxVeclocity=20
+
+# The radio model
+# transmission range of node 
+coverRange=30
+# radio range error 	
+radioError=0
+
+# Number of particles
+sampleNum=10000
+
